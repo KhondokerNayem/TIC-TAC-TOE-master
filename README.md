@@ -3,8 +3,11 @@ TIC-TAC-TOE-master is a basic interactive graphics project implemented in the C 
 
 Features:
 Single-Player Mode: Play against the computer, which provides a challenging experience for solo players.
+
 Multiplayer Mode: Play against another human player, making it perfect for casual gaming sessions with friends.
+
 Offline Gameplay: Enjoy the game without the need for an internet connection.
+
 Graphical Interface: The game includes graphical elements for a visually appealing and engaging experience.
 
 Functionality:
